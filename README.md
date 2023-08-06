@@ -5,6 +5,15 @@
 <div align="center">
   <a align="center" href="https://imgur.com/OhhLFHa"><img src="https://i.imgur.com/OhhLFHa.png" title="source: imgur.com" /></a>
 </div>
+<p align="center">
+
+  <a href="mailto:libralan2011@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  </a>
+   <a href="https://www.linkedin.com/in/lanfranco-perez-calderon-1b55a3252" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 <!--
 **Lanfranco28/Lanfranco28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

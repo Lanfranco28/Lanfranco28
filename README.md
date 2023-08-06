@@ -2,7 +2,10 @@
 <p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=253BAC&width=435&lines=Welcome+to+my+GitHub+profile;I'm+a+systems+engineer;Dedicated+to+software+development" alt="Typing SVG" /></a>
 </p>
-<a href="https://imgur.com/MMSiGfS"><img src="https://i.imgur.com/MMSiGfS.png" title="source: imgur.com" /></a>
+<div align="center">
+  <a align="center" href="https://imgur.com/OhhLFHa"><img src="https://i.imgur.com/OhhLFHa.png" title="source: imgur.com" /></a>
+</div>
+
 <!--
 **Lanfranco28/Lanfranco28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

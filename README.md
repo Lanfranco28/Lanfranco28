@@ -1,4 +1,4 @@
-## Hi, I’m Lanfranco Perez <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+## Hi, I’m Lanfranco <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=253BAC&width=435&lines=Welcome+to+my+GitHub+profile;I'm+a+systems+engineer;Dedicated+to+software+development" alt="Typing SVG" /></a>
 </p>
